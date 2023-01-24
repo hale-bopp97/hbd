@@ -19,6 +19,7 @@ h1 {
   background-image: url(./images/IMG_20210621_100818.jpg);
   height: 55%;
   margin: 20px;
+  border-radius: .5%;
   background-position: center;
   background-size: cover;
   position: relative;
@@ -32,10 +33,6 @@ footer {
 .w {
   background-image: url(./images/output-onlinepngtools.png);
 }
-
-/* .set {
-  margin: 10% auto;
-} */
 
 .game-over {
   background-color: red;
