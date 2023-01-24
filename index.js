@@ -9,7 +9,8 @@ for (var i = 0; i < numOfBtns; i++) {
 
         var btnInnerHTML = this.innerHTML;
 
-        selectSound(btnInnerHTML);
+        playSound(crash)
+        // selectSound(btnInnerHTML);
 
         buttonAnimation(btnInnerHTML);
 
